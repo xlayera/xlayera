@@ -11,11 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | JavaScript
+- 💻 &nbsp; NodeJS | MySQL | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular | ReactJS
 
 - 🔧 &nbsp; Git | Selenium
 
