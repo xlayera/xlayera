@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2> Hi, I'm Ximena Layera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> a Software Engineer in Chile. 🇨🇱
 
-<!--
-**xlayera/xlayera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> •💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 &nbsp; Learning about Code Clean, Systems Design.
+
+- ✍️ &nbsp; 2024 Goals, improve my english level and workout in other countries.
+  
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; NodeJS | JavaScript
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Selenium
+
+- 🖥 &nbsp; Confluence | Jira
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳
+
+<hr>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/xlayera/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p><br>
+
+
