@@ -26,11 +26,10 @@
 
 - 🔧 &nbsp; AWS | Docker🐳
 
-<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/xlayera/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p><br>
 
