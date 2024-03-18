@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ximena Layera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> a Software Engineer in Chile. 🇨🇱
 
-<h3> •💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
