@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; NodeJS | MySQL | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular | ReactJS
+- 🌐 &nbsp; Angular | ReactJS | HTML | CSS | JavaScript | Bootstrap
 
 - 🔧 &nbsp; Git | Selenium
 
